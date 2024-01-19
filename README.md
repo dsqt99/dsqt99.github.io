@@ -1,3 +1,5 @@
+<img src="images/header.png" width="1000px" height="400px">
+
 <h3 align="center">AI Engineer</h3>
 
 <p align="justify">
@@ -36,5 +38,3 @@
 	<code><a href="mailto:haimanhdo1999@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
   </p>
 </p>
-
-1
